@@ -1,0 +1,6 @@
+<h1>Shacks</h1>
+<ul>
+  <% @restaurants.each do |restaurant| %>
+  <li><%= link_to restaurant, restaurant_path(restaurant) %></li>
+  <% end %>
+</ul>
