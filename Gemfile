@@ -19,7 +19,7 @@ gem 'jbuilder', '~> 2.0'
 # gem 'unicorn'
 
 gem 'ancestry'
-gem 'rails-admin'
+gem 'rails_admin'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
