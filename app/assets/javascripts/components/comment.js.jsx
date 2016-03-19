@@ -4,6 +4,7 @@ var Comment = React.createClass({
     body: React.PropTypes.string,
     rank: React.PropTypes.number
   },
+
   render: function () {
     return (
       <div>
